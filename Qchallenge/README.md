@@ -1,12 +1,12 @@
-# Welcome to Quantum Challenge !!!
+# Witaj w konkursie 'HACK QUANTUM' Challenge. Gotowa/gotowy na wyzwania?
 <br>
 <br>
 <br>
 <br>
 
-# Our Agenda:  
+# Nasza Agenda:  
 
-### Day 1 Orientation and Preparation
+### Dzień 1 - Orientation and Preparation
 
 
 Tue (Feb 16) | 
