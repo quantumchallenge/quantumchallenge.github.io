@@ -122,14 +122,14 @@ Fri (Feb 19) |
 <br>
 <br>
 
-## Śledztwo napiera tempa. Robert znalazł w dark necie ciekawe informacje o tajemniczej oragnizacji zwanej Alice, której celem jest ...zniszczenie komputerów kwantowych. Ewa i Robert szukają kontaktów w światku hakerskim, żeby zdobyć jak najwięcej informacji o Alice.
+## Śledztwo napiera tempa. Robert znalazł w dark necie ciekawe informacje o tajemniczej oragnizacji o nazwie Alice, której celem jest ...zniszczenie komputerów kwantowych. Ewa i Robert szukają kontaktów w światku hakerskim, żeby zdobyć więcej informacji.
 ![quantum-working-together](../images/q7.png) 
 
-## Członkowie Alice wierzą, że rządy już pracują nad niezależną sztuczną inteligencją opartą na kwantach, a ta sztuczna inteligencja doprowadzi nas do tzw. singualrity i przy okazji do wyginięcia rasy ludzkiej. Aby nie dopóścić to tej sytuacji, zabijają wybitnych badaczy i inżynierów zajmujących się komputerami kwantowymi!
+## Członkowie Alice wierzą, że rządy już pracują nad niezależną sztuczną inteligencją opartą na kwantach, która doprowadzi nas do tzw. singularity, swoistej eksplozji rozwiązań technologicznych przyćmiewająych wszystko, co do zostało wynalezione. Przy okazji (wg Alice) będzie to też koniec rodzaju ludzkiego. Aby nie dopuścić to tej sytuacji, członkowie Alice zabijają wybitnych badaczy i inżynierów zajmujących się komputerami kwantowymi!
 ![quantum-singulatiry](../images/q8.png) 
 
 
-## Ewa i Robert znaleźli ciekawy kontakt. Nieznajomy haker podczas rozmowy z Ewą zauważył dziwny chip znaleziony przez Ewę u jednej z ofiar i dał jej fragment kodu, który ma go uruchomić. Ewa podejrzewa, że chip służy członkom Alice do wewnętrznej komunikacji. Ewa i Robert potrzebują kolejnej porcji wiedzy kwantowej, żeby  zhakować chip i nawiązać kontakt z członkami Alice. Pomóż im, rozwiązując ten notebook:
+## Ewa i Robert znaleźli ciekawy kontakt. Nieznajomy haker podczas rozmowy z Ewą zauważył dziwny chip znaleziony przez Ewę u jednej z ofiar i dał jej fragment kodu i wskazówki jak z tego chipa skorzytać. Ewa podejrzewa, że chip służy członkom Alice do wewnętrznej komunikacji. Ewa i Robert potrzebują kolejnej porcji wiedzy kwantowej, żeby  zhakować chip i nawiązać kontakt z członkami Alice. Pomóż im, rozwiązując ten notebook:
 
 * [Episode 3 jupyter notebook](https://ibm.box.com/s/lrxkb7soskfuitijfehfmik2pya92w6s)
 
@@ -150,7 +150,7 @@ Fri (Feb 19) |
 <br>
 <br>
 
-## Tego Ewa się nie spodziewała. Robert jest członkiem organizacji Alice! 
+## Tego Ewa się nie spodziewała. Robert jest agentem wysłanym przez Alice! 
 ![quantum-robert](../images/q10.png) 
 ![quantum-robert](../images/q10a.png) 
 <br>
