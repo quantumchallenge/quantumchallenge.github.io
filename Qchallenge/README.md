@@ -74,7 +74,7 @@ Fri (Feb 19) |
 <br>
 <br>
 
-## Ewa pracuje w Wydziale Śledczym Komendy Głównej Policji, skończyła 'Polibudę', zawsze preferowała uporządkowany świat matematyki od chaosu relacji z ludźmi. Lubi swoją pracę. Ostatnio Ewa natknęła się na ciekawą sprawę, seria kilku morderstw prawdopodobnie związana ze sobą. Przy jednym z ciał Ewa znalazła dziwne urządzenie podiobne do pendrive'a, które nie reaguje na normalne systemy operacyjne. Ponadto, jedno słowo powtarza się w kółko w tym dochodzeniu - "quantum". 
+## Ewa pracuje w Wydziale Śledczym Komendy Głównej Policji, skończyła 'Polibudę', zawsze preferowała uporządkowany świat matematyki od chaosu relacji z ludźmi. Ostatnio Ewa natknęła się na ciekawą sprawę, to seria kilku morderstw prawdopodobnie pozwiązanych ze sobą. Przy jednym z ciał Ewa znalazła dziwne urządzenie podiobne do pendrive'a, które nie reaguje na normalne systemy operacyjne. Jedno słowo powtarza się w kółko w tym dochodzeniu - "quantum". 
 
 
  ![quantum-ewa](../images/q4.png)  
@@ -100,7 +100,7 @@ Fri (Feb 19) |
 <br>
 <br>
 
-## To 'kwantowe' śledztwo przyciągnęło uwagę z góry. Ewa właśnie dostała partnera, który ma 'pomagać'. 
+## To 'kwantowe' śledztwo przyciągnęło uwagę z góry. Ewa właśnie dostała partnera, który ma 'pomagać', albo wprost: szpiegować!
 ![quantum-robert](../images/q5.png) 
 <br>
 <br>
@@ -122,14 +122,14 @@ Fri (Feb 19) |
 <br>
 <br>
 
-## Śledztwo napiera tempa. Robert znalazł w dark necie ciekawe informacje o oragnizacji o nazwie Alice, której celem jest ...zniszczenie komputerów kwantowych. Członkowie Alice twierdzą, że komputery kwantowe pomogą utworzyć niezależną sztuczną inteligencję, która doprowadzi do upadku cywilizacji na ziemi. Ewa i Robert szukają kontaktów w światku hakerskim, żeby zdobyć jak najwięcej informacji o organizacji Alice.
+## Śledztwo napiera tempa. Robert znalazł w dark necie ciekawe informacje o tajemniczej oragnizacji zwanej Alice, której celem jest ...zniszczenie komputerów kwantowych. Ewa i Robert szukają kontaktów w światku hakerskim, żeby zdobyć jak najwięcej informacji o Alice.
 ![quantum-working-together](../images/q7.png) 
 
-## Członkowie Alice wierzą, że rządy już pracują nad niezależną sztuczną inteligencją opartą na kwantach, a ta sztuczna inteligencja doprowadzi nas do tzw. singualrity i przy okazji do wyginięcia rasy ludzkiej. Misją członków Alice jest niedopuszenie do tej sytuacji. Dlatego zabijają wybitnych badaczy i inżynierów zajmujących się komputerami kwantowymi!
+## Członkowie Alice wierzą, że rządy już pracują nad niezależną sztuczną inteligencją opartą na kwantach, a ta sztuczna inteligencja doprowadzi nas do tzw. singualrity i przy okazji do wyginięcia rasy ludzkiej. Aby nie dopóścić to tej sytuacji, zabijają wybitnych badaczy i inżynierów zajmujących się komputerami kwantowymi!
 ![quantum-singulatiry](../images/q8.png) 
 
 
-## Ewa i Robert znaleźli ciekawy kontakt. Nieznajomy haker podczas rozmowy z Ewą zauważył dziwny chip znaleziony przez Ewę u jednej z ofiar i dał jej fragment kodu, ma go uruchomić. Ewa podejrzewa, że chip służy członkom Alice do bezpiecznej komunikacji. Ewa i Robert potrzebują kolejnej porcji wiedzy kwantowej, żeby  zhakować chip i nawiązać kontakt z członkami Alice. Pomóż im, rozwiązując ten notebook:
+## Ewa i Robert znaleźli ciekawy kontakt. Nieznajomy haker podczas rozmowy z Ewą zauważył dziwny chip znaleziony przez Ewę u jednej z ofiar i dał jej fragment kodu, który ma go uruchomić. Ewa podejrzewa, że chip służy członkom Alice do wewnętrznej komunikacji. Ewa i Robert potrzebują kolejnej porcji wiedzy kwantowej, żeby  zhakować chip i nawiązać kontakt z członkami Alice. Pomóż im, rozwiązując ten notebook:
 
 * [Episode 3 jupyter notebook](https://ibm.box.com/s/lrxkb7soskfuitijfehfmik2pya92w6s)
 
