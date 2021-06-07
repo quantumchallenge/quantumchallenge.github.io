@@ -137,16 +137,17 @@ Fri (Feb 19) |
 <br>
 
 
-## What the hack! Robert is a member o X! 
+## Tego Ewa się nie spodziewała. Robert jest członkiem organizajci Alice. 
 ![quantum-robert](../images/q10.png) 
 ![quantum-robert](../images/q10a.png) 
 <br>
 
-## Robert came to a conclusion that Eve is a danger for X. He wants to warn his bosses in X. 
+## Robert musiał od dawna kontrolować, co dzieje sie w Policji. Ostatnio doszedł do wniosku, że Ewa stanowi zagrożenie dla działlności Alice. Chce ostrzec swoich szefów i postanawia uciec.
 ![quantum-robert](../images/q10b.png) 
 ![quantum-robert](../images/q10c.png) 
 ![quantum-robert](../images/q11.png) 
-## So Robert ran away. The last chance for Eve is to reveal X members' identities to the Police (Milicja Obywatelska). This must be done before Robert will get in touch with X:
+
+## Ostatnią szansą dla Ewy jest ujawnienie kolegom Policji tożsamości członków Alice. Należy to zrobić, zanim Robert skontaktuje się ze swoimi. Pomóż Ewie na osattniej prostej, żeby rozwiązać ta sprawę:
 * [Episode 4 jupyter notebook](https://ibm.box.com/s/lrxkb7soskfuitijfehfmik2pya92w6s)
 
 
@@ -158,8 +159,8 @@ Fri (Feb 19) |
 <br>
     
 
-## Congratulations.
-## You have made it. X members are arrested. The future of quantum is shiny. Get involved and make the quantum advantage the reality! 
+## Gratulacje.
+## Dokonałeś tego! Tożsamość członków organizacji Alice została ujawniona i wszyscy będą aresztowani. Przyszłość komputerów kwantowych jawi się teraz w znacznie ciekawszych barwach. Zaangażuj się i spraw, aby przewaga kwantowa stała się rzeczywistością! 
 ![quantum-robert](../images/q12.png) 
 
 
