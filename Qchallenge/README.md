@@ -96,10 +96,6 @@ Fri (Feb 19) |
 [LOAD](https://ibm.ent.box.com/f/4c9101c0616f4897920a02a67d077321)
 
 
-<iframe src="https://ibm.ent.box.com/f/4c9101c0616f4897920a02a67d077321" height="550" width="800"></iframe>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
