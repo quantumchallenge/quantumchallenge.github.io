@@ -130,8 +130,10 @@ Fri (Feb 19) |
 
 
 ## Ewa i Robert znaleźli ciekawy kontakt. Nieznajomy Haker, zauważył dziwny chip znaleziony u jednej z ofiar i dał Ewie fragment kodu, ma go uruchomić. Ewa podejrzewa, że chip służy członkom Alice do bezpiecznej komunikacji. Ewa i Robert potrzebują kolejnej porcji wiedzy kwantowej, aby to zhakować chip i nawiązać kontakt z członkami Alice. Pomóż im, rozwiązując ten notebook:
+
 * [Episode 3 jupyter notebook](https://ibm.box.com/s/lrxkb7soskfuitijfehfmik2pya92w6s)
-![quantum-chip](../imaes/q9.png) 
+
+![quantum-chip](../images/q9.png) 
 
 <br>
 <br>
