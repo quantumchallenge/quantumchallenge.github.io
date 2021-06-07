@@ -69,19 +69,19 @@ Fri (Feb 19) |
 <br>
 <br>
 
-## This is Eve.
+## Poznaj Ewę.
  ![quantum-ewa](../images/q3.png)   
 <br>
 <br>
 
-## Eve is working as a cop and she loves math - deadly combination. Something strange is happening recently... A series of murders somehow connected to those strange device chips. One word is repeated over and over in this investigation - 'quantum'. 
+## Ewa pracuje w Wydziale Sledczym Komendy Głównej Policji, skończyła 'Polibudę', zawsze preferowała uporządkowany świat matematyki od chaosu relacji z ludźmi. Lubi swoją pracę.  Ostatnio Ewa natknęła się na zagadkową sprawę, seria kilku morderstw prawdopodobnie związana ze światem technologii. Jedno słowo powtarza się w kółko w tym dochodzeniu - "quantum". 
 
 
  ![quantum-ewa](../images/q4.png)  
 <br>
 <br>
 
-## You need to help Eve understand what quantum is. Solve all tasks in Episode 1 notebook:
+## Musisz pomóc Ewie zrozumieć, czym są komputery kwantowe. Rozwiąż poniższe zadania:
 * [Episode 1 jupyter notebook](https://ibm.box.com/s/lrxkb7soskfuitijfehfmik2pya92w6s)
 <br>
 <br>
@@ -90,12 +90,26 @@ Fri (Feb 19) |
 <br>
 <br>
 
-## This quantum related instestigation has gained some attention from the top. Eve has just got a partner to help her (or spy on her?).
+
+
+## Swoje rozwiązanie prześlij tu:
+[LOAD](https://ibm.ent.box.com/f/4c9101c0616f4897920a02a67d077321)
+
+
+<iframe src="https://ibm.ent.box.com/f/4c9101c0616f4897920a02a67d077321" height="550" width="800"></iframe>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## To 'kwantowe' śledztwo przyciągnęło uwagę z góry. Ewa właśnie dostała partnera, który ma 'pomagać'. 
 ![quantum-robert](../images/q5.png) 
 <br>
 <br>
 
-## Now let's help Robert and Eve to get deeper into quantum knowledge. Solve all tasks in Episode 2 notebook:
+## Teraz pomóżmy Robertowi i Ewie zagłębić się w wiedzę kwantową. Rozwiąż wszystkie zadania w notatniku Epizodu 2:
 * [Episode 2 jupyter notebook](https://ibm.box.com/s/lrxkb7soskfuitijfehfmik2pya92w6s)
 <br>
 <br>
@@ -104,16 +118,16 @@ Fri (Feb 19) |
 <br>
 <br>
 
-## Eve and Robert did some research and they decided to pay a visit to The Hacker. Long story short - there is organization called X claiming that quantum is dangerous technology that will eventually kill us all.
+## Śledztwo napiera tempa. Robert znalazł w dark necie ciekawe informacje o oragnizacji o nazwia Alice, której celem jest ... zniszczenie komputerów kwantowych. Członkowie Alice twierdzą, że komputery kwantowe pomogą utworzyć niezależną sztuczną inteligencję, która doprowadzi do upadku cywilizacji człowieka na ziemi. Ewa i Robert szukają kontaktów w światku hackerskim, żeby zdobyć jak najwięcej informacji o organizacji Alice.
 ![quantum-working-together](../images/q7.png) 
 
-## X believes that governments are already working on independend AI based on quantum and this AI will lead us to technological singularity and extinction of human race. The mission of X is to stop it. That's why they are killing quantum researchers and engineers!
+## Członkowie Alice wierzą, że rządy już pracują nad niezależną sztuczną inteligencją opartą na kwantach, a ta sztuczna inteligencja doprowadzi nas do tzw singualrity i do wyginięcia rasy ludzkiej. Misją członków Alice jest niedopuszenie do tej sytuacji. Dlatego zabijają wybitnych badaczy i inżynierów z boszaru komputerów kwantowych!
 ![quantum-singulatiry](../images/q8.png) 
 
 
-## The Hacker gave Eve a code snippet to run the strange chip that Eve have found. X members are communicating between each other using this device. Eve and Robert need another portion of quantum knowledge to hack it and get into X ogranization. Help them by solving this notebook:
+## Ewa i Robert znaleźli ciekawy kontakt. Nieznajomy Haker dał Ewie fragment kodu, aby uruchomić dziwny chip, który znalazła Eve. X członków komunikuje się między sobą za pomocą tego urządzenia. Ewa i Robert potrzebują kolejnej porcji wiedzy kwantowej, aby to zhakować i dostać się do organizacji X. Pomóż im, rozwiązując ten notatnik:
 * [Episode 3 jupyter notebook](https://ibm.box.com/s/lrxkb7soskfuitijfehfmik2pya92w6s)
-![quantum-chip](../images/q9.png) 
+![quantum-chip](../imaes/q9.png) 
 
 <br>
 <br>
