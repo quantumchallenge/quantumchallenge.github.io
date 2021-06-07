@@ -74,7 +74,7 @@ Fri (Feb 19) |
 <br>
 <br>
 
-## Ewa pracuje w Wydziale Śledczym Komendy Głównej Policji, skończyła 'Polibudę', zawsze preferowała uporządkowany świat matematyki od chaosu relacji z ludźmi. Ostatnio Ewa natknęła się na ciekawą sprawę, to seria kilku morderstw prawdopodobnie pozwiązanych ze sobą. Przy jednym z ciał Ewa znalazła dziwne urządzenie podiobne do pendrive'a, które nie reaguje na normalne systemy operacyjne. Jedno słowo powtarza się w kółko w tym dochodzeniu - "quantum". 
+## Ewa pracuje w Wydziale Śledczym Komendy Głównej Policji, skończyła 'Polibudę', zawsze preferowała uporządkowany świat matematyki od chaosu relacji z ludźmi. Ostatnio Ewa natknęła się na ciekawą sprawę, to seria kilku morderstw prawdopodobnie pozwiązanych ze sobą. Przy jednym z ciał znaleziono dziwne urządzenie podobne do pendrive'a, które nie reaguje na normalne systemy operacyjne. Jedno słowo w tym dochodzeniu wraca jak boomerang - "quantum". 
 
 
  ![quantum-ewa](../images/q4.png)  
