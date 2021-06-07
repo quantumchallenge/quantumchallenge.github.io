@@ -74,7 +74,7 @@ Fri (Feb 19) |
 <br>
 <br>
 
-## Ewa pracuje w Wydziale Sledczym Komendy Głównej Policji, skończyła 'Polibudę', zawsze preferowała uporządkowany świat matematyki od chaosu relacji z ludźmi. Lubi swoją pracę.  Ostatnio Ewa natknęła się na zagadkową sprawę, seria kilku morderstw prawdopodobnie związana ze światem technologii. Jedno słowo powtarza się w kółko w tym dochodzeniu - "quantum". 
+## Ewa pracuje w Wydziale Śledczym Komendy Głównej Policji, skończyła 'Polibudę', zawsze preferowała uporządkowany świat matematyki od chaosu relacji z ludźmi. Lubi swoją pracę. Ostatnio Ewa natknęła się na ciekawą sprawę, seria kilku morderstw prawdopodobnie związana ze sobą. Przy jednym z ciał Ewa znalazła dziwne urządzenie podiobne do pendrive'a, które nie reaguje na normalne systemy operacyjne. Ponadto, jedno słowo powtarza się w kółko w tym dochodzeniu - "quantum". 
 
 
  ![quantum-ewa](../images/q4.png)  
@@ -125,7 +125,7 @@ Fri (Feb 19) |
 ![quantum-singulatiry](../images/q8.png) 
 
 
-## Ewa i Robert znaleźli ciekawy kontakt. Nieznajomy Haker dał Ewie fragment kodu, aby uruchomić dziwny chip, który znalazła Eve. X członków komunikuje się między sobą za pomocą tego urządzenia. Ewa i Robert potrzebują kolejnej porcji wiedzy kwantowej, aby to zhakować i dostać się do organizacji X. Pomóż im, rozwiązując ten notatnik:
+## Ewa i Robert znaleźli ciekawy kontakt. Nieznajomy Haker, zauważył dziwny chip znaleziony u jednej z ofiar i dał Ewie fragment kodu, ma go uruchomić. Ewa podejrzewa, że chip służy członkom Alice do bezpiecznej komunikacji. Ewa i Robert potrzebują kolejnej porcji wiedzy kwantowej, aby to zhakować chip i nawiązać kontakt z członkami Alice. Pomóż im, rozwiązując ten notebook:
 * [Episode 3 jupyter notebook](https://ibm.box.com/s/lrxkb7soskfuitijfehfmik2pya92w6s)
 ![quantum-chip](../imaes/q9.png) 
 
