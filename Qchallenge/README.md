@@ -1,4 +1,4 @@
-# Witaj w konkursie 'HACK QUANTUM' Challenge. Gotowa/gotowy na wyzwania?
+# Witaj w konkursie Hack Quantum Challenge. Gotowa/gotowy na wyzwania?
 <br>
 <br>
 <br>
@@ -22,7 +22,7 @@ Break	|
 
 
 
-### Day 2 Quantum Special Lectures
+### Dzień 2 - Quantum Special Lectures
 
 
 Wed (Feb 17) | 
@@ -37,7 +37,7 @@ Break	|
 
 
 
-### Day 3 Hackathon
+### Dzień 3 - Hackathon
 
 
 Thu (Feb 18) |	
@@ -48,7 +48,7 @@ Thu (Feb 18) |
 
 
 
-### Day 4 Hackathon/Final Presentation/Awards\
+### Dzień 4 - Hackathon/Final Presentation/Awards\
 
 
 Fri (Feb 19) |
