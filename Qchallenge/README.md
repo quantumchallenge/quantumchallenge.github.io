@@ -117,6 +117,14 @@ Fri (Feb 19) |
 <br>
 <br>
 <br>
+## Swoje rozwiązanie prześlij tu:
+[LOAD](https://ibm.ent.box.com/f/4c9101c0616f4897920a02a67d077321)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Śledztwo napiera tempa. Robert znalazł w dark necie ciekawe informacje o oragnizacji o nazwia Alice, której celem jest ... zniszczenie komputerów kwantowych. Członkowie Alice twierdzą, że komputery kwantowe pomogą utworzyć niezależną sztuczną inteligencję, która doprowadzi do upadku cywilizacji człowieka na ziemi. Ewa i Robert szukają kontaktów w światku hackerskim, żeby zdobyć jak najwięcej informacji o organizacji Alice.
 ![quantum-working-together](../images/q7.png) 
@@ -135,7 +143,14 @@ Fri (Feb 19) |
 <br>
 <br>
 <br>
-
+## Swoje rozwiązanie prześlij tu:
+[LOAD](https://ibm.ent.box.com/f/4c9101c0616f4897920a02a67d077321)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Tego Ewa się nie spodziewała. Robert jest członkiem organizajci Alice. 
 ![quantum-robert](../images/q10.png) 
@@ -149,15 +164,20 @@ Fri (Feb 19) |
 
 ## Ostatnią szansą dla Ewy jest ujawnienie kolegom Policji tożsamości członków Alice. Należy to zrobić, zanim Robert skontaktuje się ze swoimi. Pomóż Ewie na osattniej prostej, żeby rozwiązać ta sprawę:
 * [Episode 4 jupyter notebook](https://ibm.box.com/s/lrxkb7soskfuitijfehfmik2pya92w6s)
-
-
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
-    
+## Swoje rozwiązanie prześlij tu:
+[LOAD](https://ibm.ent.box.com/f/4c9101c0616f4897920a02a67d077321)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>    
 
 ## Gratulacje.
 ## Dokonałeś tego! Tożsamość członków organizacji Alice została ujawniona i wszyscy będą aresztowani. Przyszłość komputerów kwantowych jawi się teraz w znacznie ciekawszych barwach. Zaangażuj się i spraw, aby przewaga kwantowa stała się rzeczywistością! 
