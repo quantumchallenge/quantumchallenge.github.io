@@ -1,4 +1,3 @@
-## Witamy w konkursie 'Walcz o Superpozycję'!
 ## Kliknij poniższy link, aby rozpocząć.
 * [Walcz o Superpozycję - Qchallenge 2021](Qchallenge/README.md)  
 <br>
