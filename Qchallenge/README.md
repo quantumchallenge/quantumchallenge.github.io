@@ -10,7 +10,7 @@
 ### Dzień 1 - Orientation and Preparation
 
 
-Tue (5 lipiec) | 
+Poniedziałek (5 lipiec) | 
 ------------ | -------------
 9:30 | Opening remarks & Orientation
 10:00 - 10:30 | Qiskit Installation - Soyoung Shin, Qiskit Advocate
