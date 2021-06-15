@@ -1,15 +1,15 @@
-# Witaj w konkursie Hack Quantum Challenge. Gotowa/gotowy na wyzwania?
+# Gotowa/gotowy na wyzwania?
 <br>
 <br>
 <br>
 <br>
 
-# Nasza Agenda:  
+# Nasza Agenda (5.07.2021 - 16.07.2021)  
 
 ### Dzień 1 - Orientation and Preparation
 
 
-Tue (Feb 16) | 
+Tue (5 lipiec) | 
 ------------ | -------------
 9:30 | Opening remarks & Orientation
 10:00 - 10:30 | Qiskit Installation - Soyoung Shin, Qiskit Advocate
