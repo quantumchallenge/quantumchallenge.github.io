@@ -162,7 +162,8 @@
 * [Zadanie  konkursowe nr 4](https://ibm.box.com/s/lrxkb7soskfuitijfehfmik2)
 <br>
 <br>
-Swoje rozwiązanie prześlij klikając poniższy link:
+
+Rozwiązanie zadanie konkursowego prześlij klikając poniższy link:
 
 [PRZEŚLIJ ROZWIĄZANIE](https://ibm.ent.box.com/f/4c9101c0616f4897920a02a67d077321)
 <br>
