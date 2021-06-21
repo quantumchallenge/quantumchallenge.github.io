@@ -1,6 +1,5 @@
 <br>
-# ./ Walcz o Superpozycję - 
-#               - Kwantowe Wyzwanie Banku BNP Paribas
+# ./ Walcz o Superpozycję: Kwantowe Wyzwanie Banku BNP Paribas
 <br>
 <br>
 Zostań developerem kwantowym i zdobądź płatny staż w Banku BNP Paribas
