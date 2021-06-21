@@ -1,7 +1,7 @@
-#
-#
+
+
 # Witamy w konkursie 'Walcz o Superpozycję'!
-#
+
 # Gotowa/gotowy na wyzwania?
 <br>
 <br>
@@ -10,8 +10,6 @@
 
 # Nasza Agenda
 <br>
-<br>
-
 
 ### Etap 1 - Startujemy
 
