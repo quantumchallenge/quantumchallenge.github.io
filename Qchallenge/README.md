@@ -1,7 +1,8 @@
-<br>
-<br>
+#
+#
 # Witamy w konkursie 'Walcz o Superpozycję'!
-## Gotowa/gotowy na wyzwania?
+#
+# Gotowa/gotowy na wyzwania?
 <br>
 <br>
 <br>
