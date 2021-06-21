@@ -76,15 +76,13 @@
 (zadanie zostanie opublikowane 5 lipca)
 * [Zadanie  pomocnicze nr 1](https://ibm.box.com/s/lrxkb7soskfuitijfehfmik2)
 <br>
+*Zadania 1 - 3 nie podlegają ocenie i nie są obowiązkowe, ale mogą pomóc Ci w przygotowaniu do zadania konkursowego (zadania nr 4)*
 <br>
 <br>
 <br>
 <br>
 <br>
 
-
-
-## Zadania 1 - 3 nie podlegają ocenie i nie są obowiązkowe, ale mogą pomóc Ci w przygotowaniu do zadania konkursowego (zadania nr 4)
 
 <br>
 <br>
@@ -99,12 +97,12 @@
 (zadanie zostanie opublikowane 5 lipca)
 * [Zadanie  pomocnicze nr 2](https://ibm.box.com/s/lrxkb7soskfuitijfehfmik2)
 <br>
+*Zadania 1 - 3 nie podlegają ocenie i nie są obowiązkowe, ale mogą pomóc Ci w przygotowaniu do zadania konkursowego (zadania nr 4)*
 <br>
 <br>
 <br>
 <br>
 <br>
-## Zadania 1 - 3 nie podlegają ocenie i nie są obowiązkowe, ale mogą pomóc Ci w przygotowaniu do zadania konkursowego (zadania nr 4)
 <br>
 <br>
 <br>
@@ -128,12 +126,12 @@
 
 ![quantum-chip](../images/q9.png)
 <br>
+*Zadania 1 - 3 nie podlegają ocenie i nie są obowiązkowe, ale mogą pomóc Ci w przygotowaniu do zadania konkursowego (zadania nr 4)*
 <br>
 <br>
 <br>
 <br>
 <br>
-## Zadania 1 - 3 nie podlegają ocenie i nie są obowiązkowe, ale mogą pomóc Ci w przygotowaniu do zadania konkursowego (zadania nr 4)
 <br>
 <br>
 <br>
