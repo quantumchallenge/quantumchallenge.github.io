@@ -17,7 +17,7 @@
 ----------------  | ------------- 
 22 czerwca 10:00  | Rozpoczęcie zapisów do Konkursu - [https://walczosuperpozycje.pl](https://walczosuperpozycje.pl)
 22 czerwca 10:00  | Rozpoczęcie dołączania do serwera Discord - [https://discord.gg/2vGWS4d3da](https://discord.gg/2vGWS4d3da)
-   2 lipca 17:00  | Zakończenie zapisów do Konkursu
+   5 lipca 10:00  | Zakończenie zapisów do Konkursu
 	
 
 ### Etap 2 - Walczymy w Konkursie
