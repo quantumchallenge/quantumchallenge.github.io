@@ -126,13 +126,14 @@
 
 (zadanie zostanie opublikowane 5 lipca)
 * [Zadanie  pomocnicze nr 3](https://ibm.box.com/s/lrxkb7soskfuitijfehfmik2)
-
-## Po Twojej interwencji Ewa i Robert zdołali uruchomić chip. Chip służy członkom Alice do wewnętrznej komunikacji!
-
-![quantum-chip](../images/q9.png)
 <br>
 *Zadania 1 - 3 nie podlegają ocenie i nie są obowiązkowe, ale mogą pomóc Ci w przygotowaniu do zadania konkursowego (zadania nr 4)*
 <br>
+
+## Po Twojej interwencji Ewa i Robert zdołali uruchomić chip. Chip służy członkom Alice do wewnętrznej komunikacji!
+<br>
+<br>
+![quantum-chip](../images/q9.png)
 <br>
 <br>
 <br>
