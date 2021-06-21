@@ -166,6 +166,7 @@
 <br>
 <br>
 <br>
+
 ## Swoje rozwiązanie prześlij tu:
 [LOAD](https://ibm.ent.box.com/f/4c9101c0616f4897920a02a67d077321)
 <br>
