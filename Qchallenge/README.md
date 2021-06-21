@@ -9,54 +9,31 @@
 
 ### Etap 1 - Startujemy
 
----------------- | ------------- | ------------- 
-21 czerwca 10:00 | 	Rozpoczęcie zapisów do Konkursu - https://walczosuperpozycje.pl/
-21 czerwca 10:00 | 	Rozpoczęcie do kanału Discord -	https://discord.gg/2vGWS4d3da
-2 lipca    17:00 |  Zakończenie zapisów do Konkursu
-	|
-5 lipca    10:00 0	| Quantum Computing with Qiskit - Introduction to Algorithms - Hwajung Kang, IBM
-14:00 - 15:00	| Recent Quantum Research Trends - ‪Kyunghyun Baek, KIAS
-15:30 - 16:00	| Project Pitcher's Time 1
-16:20 - 17:00	| Team Formation & Project Planning 1
+----------------  | ------------- 
+21 czerwca 10:00  | Rozpoczęcie zapisów do Konkursu - https://walczosuperpozycje.pl/
+21 czerwca 10:00  | Rozpoczęcie do kanału Discord - https://discord.gg/2vGWS4d3da
+   2 lipca 17:00  | Zakończenie zapisów do Konkursu
+	
+
+### Etap 2 - Walczymy w Konkursie
+	
+----------------  | ------------- 
+5 lipca  10:00    | Kick-off, powitanie uczestników, prezentacja zasad Konkursu - ?webex?
+5 lipca  10:00    | Publikacja zadań pomocniczych
+11 lipca 24:00	  | Zakończenie przyjmowania rozwiązań zadań pomocniczych		 		 		  
+12 lipca 10:00	  | Opublikowanie zadania konkursowego
+18 lipca 24:00    | Zakończenie przyjmowania rozwiązań zadania konkursowego
 
 
 
-### Dzień 2 - Quantum Special Lectures
+### Etap 3 - Podsumowujemy
 
-
-Wed (Feb 17) | 
------------- | -------------
-09:00 - 09:30	| Introduction to Quantum Computing – Paul Nation, IBM
-09:30 - 10:00	| Quantum Machine Learning - June-Koo Kevin Rhee, KAIST
-10:30 - 11:00	| Introduction to Superconducting Qubits – Hanhee Paik, IBM
-11:00 - 12:00	| Qiskit Metal Intro & Demonstration - Zlatko Minev/Thomas McConkey, IBM
-Break	| 
-13:00 - 14:00	| Project Pitcher's Time 2
-14:00 - 15:00	| Team Formation 2 ( All Teams Ready)
+----------------  | ------------- 
+20 lipca    10:00 | Ogłoszenie wyników Konkursu 
+09 sierpnia 10:00 | Rozpoczęcie Programu Stażowego w BNP Paribas
 
 
 
-### Dzień 3 - Hackathon
-
-
-Thu (Feb 18) |	
------------- | -------------
-09:00 - 12:00	| Hackathon 1 (Coding)
-12:00 - 13:30	| Break & Lunch
-13:30 - 16:30	| Hackathon 2 (Coding)
-
-
-
-### Dzień 4 - Hackathon/Final Presentation/Awards\
-
-
-Fri (Feb 19) |
------------- | -------------
-09:00 - 14:00	| Hackathon 3 (Take lunch break in between)
-14:00 - 15:00	| Coding Ends, Preparation for Presentation
-15:00 - 16:30	| Final Team Presentations (3min)
-16:30 - 17:00	| Judging
-17:00 - 17:30	| Awards Ceremony
 
 ![quantum-obrazek](../images/q1.png)      
 <br>
