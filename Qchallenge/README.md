@@ -15,8 +15,8 @@
 ### Etap 1 - Startujemy
 
 ----------------  | ------------- 
-21 czerwca 10:00  | Rozpoczęcie zapisów do Konkursu - https://walczosuperpozycje.pl/
-21 czerwca 10:00  | Rozpoczęcie do kanału Discord - https://discord.gg/2vGWS4d3da
+21 czerwca 10:00  | Rozpoczęcie zapisów do Konkursu - [https://walczosuperpozycje.pl](https://walczosuperpozycje.pl)
+21 czerwca 10:00  | Rozpoczęcie do kanału Discord - [https://discord.gg/2vGWS4d3da](https://discord.gg/2vGWS4d3da)
    2 lipca 17:00  | Zakończenie zapisów do Konkursu
 	
 
