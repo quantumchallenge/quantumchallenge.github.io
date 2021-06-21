@@ -45,6 +45,11 @@
 
 <br>
 <br>
+
+# Masz pytania? Zapraszamy do dyskusji na serwerze Discord:
+* [https://discord.gg/2vGWS4d3da](https://discord.gg/2vGWS4d3da)
+
+
 <br>
 <br>
 <br>
