@@ -5,18 +5,16 @@
 <br>
 <br>
 
-# Nasza Agenda (5.07.2021 - 16.07.2021)  
+# Nasza Agenda
 
-### Dzień 1 - Orientation and Preparation
+### Etap 1 - Startujemy
 
-
-Poniedziałek (5 lipiec) | 
------------- | -------------
-9:30 | Opening remarks & Orientation
-10:00 - 10:30 | Qiskit Installation - Soyoung Shin, Qiskit Advocate
-10:30 - 11:30	| Quantum Computing with Qiskit - Fundamentals - Hwajung Kang, IBM
-Break	|
-12:30 - 13:30	| Quantum Computing with Qiskit - Introduction to Algorithms - Hwajung Kang, IBM
+---------------- | ------------- | ------------- 
+21 czerwca 10:00 | 	Rozpoczęcie zapisów do Konkursu - https://walczosuperpozycje.pl/
+21 czerwca 10:00 | 	Rozpoczęcie do kanału Discord -	https://discord.gg/2vGWS4d3da
+2 lipca    17:00 |  Zakończenie zapisów do Konkursu
+	|
+5 lipca    10:00 0	| Quantum Computing with Qiskit - Introduction to Algorithms - Hwajung Kang, IBM
 14:00 - 15:00	| Recent Quantum Research Trends - ‪Kyunghyun Baek, KIAS
 15:30 - 16:00	| Project Pitcher's Time 1
 16:20 - 17:00	| Team Formation & Project Planning 1
