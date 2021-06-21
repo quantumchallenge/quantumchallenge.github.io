@@ -76,7 +76,7 @@
 
 ## Pomóż Ewie zrozumieć, czym są komputery kwantowe. Rozwiąż poniższe zadania:
 (zadanie zostanie opublikowane 5 lipca)
-* [Epizod 1 - zadanie pomocnicze](https://ibm.box.com/s/lrxkb7soskfuitijfehfmik2)
+* [Zadanie  pomocnicze nr 1](https://ibm.box.com/s/lrxkb7soskfuitijfehfmik2)
 <br>
 <br>
 <br>
@@ -86,9 +86,7 @@
 
 
 
-## Swoje rozwiązanie prześlij tu:
-[LOAD](https://ibm.ent.box.com/f/4c9101c0616f4897920a02a67d077321)
-
+## Zadania 1 - 3 nie podlegają ocenie i nie są obowiązkowe, ale mogą pomóc Ci w przygotowaniu do zadania konkursowego (zadania nr 4)
 
 <br>
 <br>
@@ -101,15 +99,14 @@
 
 ## Teraz pomóżmy Robertowi i Ewie zagłębić się w wiedzę kwantową. Rozwiąż wszystkie zadania w notatniku Epizodu 2:
 (zadanie zostanie opublikowane 5 lipca)
-* [Epizod 2 - zadanie pomocnicze](https://ibm.box.com/s/lrxkb7soskfuitijfehfmik2)
+* [Zadanie  pomocnicze nr 2](https://ibm.box.com/s/lrxkb7soskfuitijfehfmik2)
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
-## Swoje rozwiązanie prześlij tu:
-[LOAD](https://ibm.ent.box.com/f/4c9101c0616f4897920a02a67d077321)
+## Zadania 1 - 3 nie podlegają ocenie i nie są obowiązkowe, ale mogą pomóc Ci w przygotowaniu do zadania konkursowego (zadania nr 4)
 <br>
 <br>
 <br>
@@ -127,7 +124,7 @@
 ## Ewa i Robert znaleźli ciekawy kontakt. Nieznajomy haker podczas rozmowy z Ewą zauważył dziwny chip znaleziony przez Ewę u jednej z ofiar i dał jej fragment kodu i wskazówki jak z tego chipa skorzytać. Ewa i Robert potrzebują kolejnej porcji wiedzy kwantowej, żeby  zhakować chip i nawiązać kontakt z członkami Alice. Pomóż im, rozwiązując ten notebook:
 
 (zadanie zostanie opublikowane 5 lipca)
-* [Epizod 3 - zadanie pomocnicze](https://ibm.box.com/s/lrxkb7soskfuitijfehfmik2)
+* [Zadanie  pomocnicze nr 3](https://ibm.box.com/s/lrxkb7soskfuitijfehfmik2)
 
 ## Po Twojej interwencji Ewa i Robert zdołali uruchomić chip. Chip służy członkom Alice do wewnętrznej komunikacji!
 
@@ -138,8 +135,7 @@
 <br>
 <br>
 <br>
-## Swoje rozwiązanie prześlij tu:
-[LOAD](https://ibm.ent.box.com/f/4c9101c0616f4897920a02a67d077321)
+## Zadania 1 - 3 nie podlegają ocenie i nie są obowiązkowe, ale mogą pomóc Ci w przygotowaniu do zadania konkursowego (zadania nr 4)
 <br>
 <br>
 <br>
@@ -159,7 +155,7 @@
 
 ## Ostatnią szansą dla Ewy jest wykorzystanie działającego już chipa i ujawnienie kolegom z Policji tożsamości członków Alice. Należy to zrobić, zanim Robert skontaktuje się ze swoimi. Pomóż Ewie na ostatniej prostej i rozwiąż poniższe zadania:
 (zadanie zostanie opublikowane 12 lipca)
-* [Epizod 4 - główne zadanie konkursowe](https://ibm.box.com/s/lrxkb7soskfuitijfehfmik2)
+* [Zadanie  konkursowe nr 4](https://ibm.box.com/s/lrxkb7soskfuitijfehfmik2)
 <br>
 <br>
 <br>
