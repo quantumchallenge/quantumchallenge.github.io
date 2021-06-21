@@ -24,8 +24,7 @@
 	
 ----------------  | ------------- 
 5 lipca  10:00    | Kick-off, powitanie uczestników, prezentacja zasad Konkursu
-5 lipca  10:00    | Publikacja zadań pomocniczych
-11 lipca 24:00	  | Zakończenie przyjmowania rozwiązań zadań pomocniczych		 		 		  
+5 lipca  10:00    | Publikacja zadań pomocniczych	 		 		  
 12 lipca 10:00	  | Opublikowanie zadania konkursowego
 18 lipca 24:00    | Zakończenie przyjmowania rozwiązań zadania konkursowego
 
