@@ -8,8 +8,6 @@
 # Nasza Agenda
 <br>
 <br>
-<br>
-<br>
 
 
 ### Etap 1 - Startujemy
@@ -23,7 +21,7 @@
 ### Etap 2 - Walczymy w Konkursie
 	
 ----------------  | ------------- 
-5 lipca  10:00    | Kick-off, powitanie uczestników, prezentacja zasad Konkursu - ?webex?
+5 lipca  10:00    | Kick-off, powitanie uczestników, prezentacja zasad Konkursu
 5 lipca  10:00    | Publikacja zadań pomocniczych
 11 lipca 24:00	  | Zakończenie przyjmowania rozwiązań zadań pomocniczych		 		 		  
 12 lipca 10:00	  | Opublikowanie zadania konkursowego
