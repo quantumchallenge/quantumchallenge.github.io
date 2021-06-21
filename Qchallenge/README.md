@@ -1,4 +1,6 @@
-## Witamy w konkursie 'Walcz o Superpozycję'!
+<br>
+<br>
+# Witamy w konkursie 'Walcz o Superpozycję'!
 ## Gotowa/gotowy na wyzwania?
 <br>
 <br>
