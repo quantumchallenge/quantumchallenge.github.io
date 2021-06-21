@@ -33,7 +33,7 @@
 ### Etap 3 - Podsumowanie
 
 ----------------  | ------------- 
-20 lipca    10:00 | Ogłoszenie wyników Konkursu 
+26 lipca    10:00 | Ogłoszenie wyników Konkursu 
 09 sierpnia 10:00 | Rozpoczęcie Programu Stażowego w BNP Paribas
 
 <br>
