@@ -131,9 +131,9 @@
 <br>
 <br>
 <br>
+<br>
 
 ## Po Twojej interwencji Ewa i Robert zdołali uruchomić chip. Chip służy członkom Alice do wewnętrznej komunikacji!
-<br>
 <br>
 ![quantum-chip](../images/q9.png)
 <br>
