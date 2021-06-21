@@ -16,7 +16,7 @@
 
 ----------------  | ------------- 
 21 czerwca 10:00  | Rozpoczęcie zapisów do Konkursu - [https://walczosuperpozycje.pl](https://walczosuperpozycje.pl)
-21 czerwca 10:00  | Rozpoczęcie do kanału Discord - [https://discord.gg/2vGWS4d3da](https://discord.gg/2vGWS4d3da)
+21 czerwca 10:00  | Rozpoczęcie dołączania do serwera Discord - [https://discord.gg/2vGWS4d3da](https://discord.gg/2vGWS4d3da)
    2 lipca 17:00  | Zakończenie zapisów do Konkursu
 	
 
@@ -42,7 +42,7 @@
 <br>
 <br>
 
-# Ważne - zapoznaj się z instruckją instalacji:
+# Ważne - zapoznaj się z instrukcją instalacji:
 * [instrukcja instalacji](https://ibm.box.com/s/eswuzahyei1ivweo6sr9v7h3nxy4olfr)
 
 <br>
