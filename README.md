@@ -14,7 +14,7 @@ Zostań developerem kwantowym i zdobądź płatny staż w Banku BNP Paribas
 
 
 ## Kliknij poniższy link, aby rozpocząć.
-* [Walcz o Superpozycję: Kwantowe Wyzwanie Banku BNP Paribas](Qchallenge/README.md)  
+* [Walcz o Superpozycję - Kwantowe Wyzwanie Banku BNP Paribas](Qchallenge/README.md)  
 <br>
 <br>
 <br>
