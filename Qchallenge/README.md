@@ -6,6 +6,11 @@
 <br>
 
 # Nasza Agenda
+<br>
+<br>
+<br>
+<br>
+
 
 ### Etap 1 - Startujemy
 
@@ -26,14 +31,26 @@
 
 
 
-### Etap 3 - Podsumowujemy
+### Etap 3 - Podsumowanie
 
 ----------------  | ------------- 
 20 lipca    10:00 | Ogłoszenie wyników Konkursu 
 09 sierpnia 10:00 | Rozpoczęcie Programu Stażowego w BNP Paribas
 
+<br>
+<br>
+<br>
+<br>
 
+# Ważne - zapoznaj się z instruckją instalacji:
+* [instrukcja instalacji](https://ibm.box.com/s/eswuzahyei1ivweo6sr9v7h3nxy4olfr)
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ![quantum-obrazek](../images/q1.png)      
 <br>
@@ -58,7 +75,8 @@
 <br>
 
 ## Pomóż Ewie zrozumieć, czym są komputery kwantowe. Rozwiąż poniższe zadania:
-* [Episode 1 jupyter notebook](https://ibm.box.com/s/lrxkb7soskfuitijfehfmik2pya92w6s)
+(zadanie zostanie opublikowane 5 lipca)
+* [Epizod 1 - zadanie pomocnicze](https://ibm.box.com/s/lrxkb7soskfuitijfehfmik2)
 <br>
 <br>
 <br>
@@ -82,7 +100,8 @@
 <br>
 
 ## Teraz pomóżmy Robertowi i Ewie zagłębić się w wiedzę kwantową. Rozwiąż wszystkie zadania w notatniku Epizodu 2:
-* [Episode 2 jupyter notebook](https://ibm.box.com/s/lrxkb7soskfuitijfehfmik2pya92w6s)
+(zadanie zostanie opublikowane 5 lipca)
+* [Epizod 2 - zadanie pomocnicze](https://ibm.box.com/s/lrxkb7soskfuitijfehfmik2)
 <br>
 <br>
 <br>
@@ -107,7 +126,8 @@
 
 ## Ewa i Robert znaleźli ciekawy kontakt. Nieznajomy haker podczas rozmowy z Ewą zauważył dziwny chip znaleziony przez Ewę u jednej z ofiar i dał jej fragment kodu i wskazówki jak z tego chipa skorzytać. Ewa i Robert potrzebują kolejnej porcji wiedzy kwantowej, żeby  zhakować chip i nawiązać kontakt z członkami Alice. Pomóż im, rozwiązując ten notebook:
 
-* [Episode 3 jupyter notebook](https://ibm.box.com/s/lrxkb7soskfuitijfehfmik2pya92w6s)
+(zadanie zostanie opublikowane 5 lipca)
+* [Epizod 3 - zadanie pomocnicze](https://ibm.box.com/s/lrxkb7soskfuitijfehfmik2)
 
 ## Po Twojej interwencji Ewa i Robert zdołali uruchomić chip. Chip służy członkom Alice do wewnętrznej komunikacji!
 
@@ -138,7 +158,8 @@
 ![quantum-robert](../images/q11.png) 
 
 ## Ostatnią szansą dla Ewy jest wykorzystanie działającego już chipa i ujawnienie kolegom z Policji tożsamości członków Alice. Należy to zrobić, zanim Robert skontaktuje się ze swoimi. Pomóż Ewie na ostatniej prostej i rozwiąż poniższe zadania:
-* [Episode 4 jupyter notebook](https://ibm.box.com/s/lrxkb7soskfuitijfehfmik2pya92w6s)
+(zadanie zostanie opublikowane 12 lipca)
+* [Epizod 4 - główne zadanie konkursowe](https://ibm.box.com/s/lrxkb7soskfuitijfehfmik2)
 <br>
 <br>
 <br>
