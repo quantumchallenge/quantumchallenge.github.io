@@ -1,5 +1,5 @@
 ## Kliknij poniższy link, aby rozpocząć.
-* [Walcz o Superpozycję - Qchallenge 2021](Qchallenge/README.md)  
+* [Walcz o Superpozycję - Kwantowe Wyzwanie Banku BNP Paribas](Qchallenge/README.md)  
 <br>
 <br>
 <br>
