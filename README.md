@@ -54,16 +54,17 @@ Zostań developerem kwantowym i zdobądź płatny staż w Banku BNP Paribas
 <span style="display:block;text-align:center">[![logo-ibm](/images/logoibm.png)](https://www.ibm.com/pl-pl)</span>
 <br>
 
-[![logo-qpoland](/images/logoqpoland.png)](https://qworld.net/qpoland/)
+<span style="display:block;text-align:center">[![logo-qpoland](/images/logoqpoland.png)](https://qworld.net/qpoland/)</span>
 <br>
 
-[![logo-quantumai](/images/logoqai.png)](https://www.qaif.org/)
+<span style="display:block;text-align:center">[![logo-quantumai](/images/logoqai.png)](https://www.qaif.org/)</span>
 <br>
 
-[![logo-cft](/images/logocft.png)](https://www.cft.edu.pl/)
+<span style="display:block;text-align:center">[![logo-cft](/images/logocft.png)](https://www.cft.edu.pl/)</span>
 <br>
 
-[![logo-cft](/images/logoitis.png)](https://www.iitis.pl/)
+<span style="display:block;text-align:center">[![logo-cft](/images/logoitis.png)](https://www.iitis.pl/)</span>
+
 
 
 
