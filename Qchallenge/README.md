@@ -200,4 +200,4 @@ Rozwiązanie zadania konkursowego prześlij klikając poniższy link:
 <br>
 <br>
 <br>
-Ilustracje przygotowane na podstawie komiksu „Rewolucja stanu – fantastyczne wprowadzenie do informatyki kwantowej” (https://depot.ceon.pl/handle/123456789/16807) autorstwa Katarzyny Kary, Michała Cholewy i Piotra Gawrona wydanego przez Instytut Informatyki Teoretycznej i Stosowanej PAN w Gliwicach udostępnionego na licencji CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.pl).
+###### Ilustracje przygotowane na podstawie komiksu „Rewolucja stanu – fantastyczne wprowadzenie do informatyki kwantowej” (https://depot.ceon.pl/handle/123456789/16807) autorstwa Katarzyny Kary, Michała Cholewy i Piotra Gawrona wydanego przez Instytut Informatyki Teoretycznej i Stosowanej PAN w Gliwicach udostępnionego na licencji CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.pl).
