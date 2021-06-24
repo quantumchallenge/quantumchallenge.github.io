@@ -46,6 +46,12 @@ Zostań developerem kwantowym i zdobądź płatny staż w Banku BNP Paribas
 
 [![logo-ibm](/images/logoibm.png)](https://www.ibm.com/pl-pl)
 [![logo-bnp](/images/logobnpparibas.png)](https://www.bnpparibas.pl/)
+[![logo-qpoland](/images/logoqpoland.png)](https://qworld.net/qpoland/)
+[![logo-quantumai](/images/logoqai.png)](https://www.qaif.org/)
+[![logo-cft](/images/logocft.png)](https://www.cft.edu.pl/)
+
+
+
 
 <br>
 <br>
