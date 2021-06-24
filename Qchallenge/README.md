@@ -182,8 +182,18 @@ Rozwiązanie zadania konkursowego prześlij klikając poniższy link:
 
 
 
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
