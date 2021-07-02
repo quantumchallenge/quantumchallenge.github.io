@@ -46,7 +46,9 @@ Zostań developerem kwantowym i zdobądź płatny staż w Banku BNP Paribas
 
 
 <br>
+
 ## Organizator:
+
 <br>
 <br>
 <br>
