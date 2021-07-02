@@ -23,6 +23,7 @@
 	
 ----------------  | ------------- 
 5 lipca  10:30    | Kick-off, powitanie uczestników, prezentacja zasad Konkursu
+		  | link do spotkania webex: https://bnpparibas-pl.webex.com/bnpparibas-pl/j.php?MTID=ma2fce524f523b9b238100cf7dd66eddb
 5 lipca  10:00    | Publikacja zadań pomocniczych	 		 		  
 12 lipca 10:00	  | Opublikowanie zadania konkursowego
 18 lipca 24:00    | Zakończenie przyjmowania rozwiązań zadania konkursowego
