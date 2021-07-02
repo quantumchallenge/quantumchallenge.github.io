@@ -47,7 +47,7 @@ Zostań developerem kwantowym i zdobądź płatny staż w Banku BNP Paribas
 
 <br>
 <p align="center">
-## Organizator:
+Organizator:
 </p>
 <br>
 <br>
@@ -62,7 +62,7 @@ Zostań developerem kwantowym i zdobądź płatny staż w Banku BNP Paribas
 <br>
 <br>
 <p align="center">
-## Partnerzy:
+Partnerzy:
 </p>
 <br>
 
@@ -75,7 +75,7 @@ Zostań developerem kwantowym i zdobądź płatny staż w Banku BNP Paribas
 <br>
 <br>
 <p align="center">
-## Partnerzy Honorowi:
+Partnerzy Honorowi:
 </p>
 <span style="display:block;text-align:center">[![logo-quantumai](/images/logoqai.png)](https://www.qaif.org/)</span>
 <br>
