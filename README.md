@@ -51,7 +51,6 @@ Organizator:
 </p>
 <br>
 <br>
-<br>
 
 <span style="display:block;text-align:center">[![logo-bnp](/images/logobnpparibas.png)](https://www.bnpparibas.pl/)</span>
 <br>
@@ -77,6 +76,8 @@ Partnerzy:
 <p align="center">
 Partnerzy Honorowi:
 </p>
+<br>
+
 <span style="display:block;text-align:center">[![logo-quantumai](/images/logoqai.png)](https://www.qaif.org/)</span>
 <br>
 
