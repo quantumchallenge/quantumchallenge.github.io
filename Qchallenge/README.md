@@ -80,7 +80,7 @@
 
 ## Pomóż Ewie zrozumieć, czym są komputery kwantowe. Rozwiąż poniższe zadania:
 (zadanie zostanie opublikowane 5 lipca)
-* [Zadanie  pomocnicze nr 1](https://ibm.box.com/s/lrxkb7soskfuitijfehfmik2)
+* [Zadanie  pomocnicze nr 1](https://github.com/quantumchallenge/quantumchallenge.github.io/blob/main/Qchallenge/test1.txt)
 <br>
 *Zadania 1 - 3 nie podlegają ocenie i nie są obowiązkowe, ale mogą pomóc Ci w przygotowaniu do zadania konkursowego (zadania nr 4)*
 <br>
