@@ -79,7 +79,8 @@
 <br>
 
 ## Pomóż Ewie zrozumieć, czym są komputery kwantowe. Rozwiąż poniższe zadania:
-(zadanie zostanie opublikowane 5 lipca)
+
+
 * [Zadanie  pomocnicze nr 1](https://ibm.box.com/s/a2ndwxxrpfczst1kwj7fkxu6zqw62m7p)
 <br>
 *Zadania 1 - 3 nie podlegają ocenie i nie są obowiązkowe, ale mogą pomóc Ci w przygotowaniu do zadania konkursowego (zadania nr 4)*
@@ -100,7 +101,8 @@
 <br>
 
 ## Teraz pomóżmy Robertowi i Ewie zagłębić się w wiedzę kwantową. Rozwiąż wszystkie zadania w notatniku Epizodu 2:
-(zadanie zostanie opublikowane 5 lipca)
+
+
 * [Zadanie  pomocnicze nr 2](https://ibm.box.com/s/gusdzppakih4paitrw95l1m03gotj81m)
 <br>
 *Zadania 1 - 3 nie podlegają ocenie i nie są obowiązkowe, ale mogą pomóc Ci w przygotowaniu do zadania konkursowego (zadania nr 4)*
@@ -125,7 +127,7 @@
 
 ## Ewa i Robert znaleźli ciekawy kontakt. Nieznajomy haker podczas rozmowy z Ewą zauważył dziwny chip znaleziony przez Ewę u jednej z ofiar i dał jej fragment kodu i wskazówki jak z tego chipa skorzytać. Ewa i Robert potrzebują kolejnej porcji wiedzy kwantowej, żeby  zhakować chip i nawiązać kontakt z członkami Alice. Pomóż im, rozwiązując ten notebook:
 
-(zadanie zostanie opublikowane 5 lipca)
+
 * [Zadanie  pomocnicze nr 3](https://ibm.box.com/s/nmgtslo2zmqtpo4y4j6rrq78hczexp6w)
 <br>
 *Zadania 1 - 3 nie podlegają ocenie i nie są obowiązkowe, ale mogą pomóc Ci w przygotowaniu do zadania konkursowego (zadania nr 4)*
