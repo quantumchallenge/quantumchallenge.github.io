@@ -81,7 +81,7 @@
 ## Pomóż Ewie zrozumieć, czym są komputery kwantowe. Rozwiąż poniższe zadania:
 
 
-* [Zadanie  pomocnicze nr 1](https://ibm.box.com/s/a2ndwxxrpfczst1kwj7fkxu6zqw62m7p)
+* [Zadanie  pomocnicze nr 1](https://ibm.box.com/s/dtdbhfpo9tl80gw5tzwxh092ge5j3stc)
 <br>
 *Zadania 1 - 3 nie podlegają ocenie i nie są obowiązkowe, ale mogą pomóc Ci w przygotowaniu do zadania konkursowego (zadania nr 4)*
 <br>
