@@ -128,7 +128,7 @@
 ## Ewa i Robert znaleźli ciekawy kontakt. Nieznajomy haker podczas rozmowy z Ewą zauważył dziwny chip znaleziony przez Ewę u jednej z ofiar i dał jej fragment kodu i wskazówki jak z tego chipa skorzytać. Ewa i Robert potrzebują kolejnej porcji wiedzy kwantowej, żeby  zhakować chip i nawiązać kontakt z członkami Alice. Pomóż im, rozwiązując ten notebook:
 
 
-* [Zadanie  pomocnicze nr 3](https://ibm.box.com/s/nmgtslo2zmqtpo4y4j6rrq78hczexp6w)
+* [Zadanie  pomocnicze nr 3](https://ibm.box.com/s/9lbsy3fsf5b1wdnoxib4z7bj50seqwnq)
 <br>
 *Zadania 1 - 3 nie podlegają ocenie i nie są obowiązkowe, ale mogą pomóc Ci w przygotowaniu do zadania konkursowego (zadania nr 4)*
 <br>
