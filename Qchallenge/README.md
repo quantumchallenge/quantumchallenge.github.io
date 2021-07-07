@@ -103,7 +103,7 @@
 ## Teraz pomóżmy Robertowi i Ewie zagłębić się w wiedzę kwantową. Rozwiąż wszystkie zadania w notatniku Epizodu 2:
 
 
-* [Zadanie  pomocnicze nr 2](https://ibm.box.com/s/gusdzppakih4paitrw95l1m03gotj81m)
+* [Zadanie  pomocnicze nr 2](https://ibm.box.com/s/bb3hksxwkuvqgziexokz8m3udei1tbu7)
 <br>
 *Zadania 1 - 3 nie podlegają ocenie i nie są obowiązkowe, ale mogą pomóc Ci w przygotowaniu do zadania konkursowego (zadania nr 4)*
 <br>
