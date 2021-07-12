@@ -161,8 +161,8 @@
 ![quantum-robert](../images/q11.png) 
 
 ## Ostatnią szansą dla Ewy jest wykorzystanie działającego już chipa i ujawnienie kolegom z Policji tożsamości członków Alice. Należy to zrobić, zanim Robert skontaktuje się ze swoimi. Pomóż Ewie na ostatniej prostej i rozwiąż poniższe zadania:
-(zadanie zostanie opublikowane 12 lipca)
-* [Zadanie  konkursowe nr 4](https://ibm.box.com/s/lrxkb7soskfuitijfehfmik2)
+
+* [Zadanie  konkursowe nr 4](https://ibm.box.com/s/sksbkc3qnciw7dzgazslkyn261zhe2xn)
 <br>
 <br>
 
